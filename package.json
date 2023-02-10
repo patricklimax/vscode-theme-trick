@@ -9,7 +9,6 @@
   "categories": [
     "Themes"
   ],
-  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "www.github.com/patricklimax/vscode-theme-trick"
