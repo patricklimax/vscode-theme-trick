@@ -358,7 +358,7 @@
         "constant.language.nan"
       ],
       "settings": {
-        "foreground": "#8257e5"
+        "foreground": "#55EFC4"
       }
     },
     {
@@ -495,7 +495,7 @@
       "name": "Keyword",
       "scope": ["keyword", "keyword.control", "keyword.other.important"],
       "settings": {
-        "foreground": "#bb9af7"
+        "foreground": "#00CEC9"
       }
     },
     {
@@ -538,7 +538,7 @@
       "name": "Tag Punctuation",
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#8257e5"
+        "foreground": "#a29bfe"
       }
     },
     {
@@ -565,7 +565,7 @@
         "variable.other.object"
       ],
       "settings": {
-        "foreground": "#c0caf5"
+        "foreground": "#74b9ff"
       }
     },
     {
@@ -640,7 +640,7 @@
         "storage.type.cs"
       ],
       "settings": {
-        "foreground": "#ff068a"
+        "foreground": "#ff065e"
       }
     },
     {
@@ -874,7 +874,7 @@
       "name": "CSS value",
       "scope": "support.constant.property-value",
       "settings": {
-        "foreground": "#8257e5"
+        "foreground": "#a29bfe"
       }
     },
     {
