@@ -475,7 +475,7 @@
         "meta.at-rule.function variable.parameter.url"
       ],
       "settings": {
-        "foreground": "#ff6c94"
+        "foreground": "#fff"
       }
     },
     {
@@ -517,7 +517,7 @@
         "keyword.operator.or.regexp"
       ],
       "settings": {
-        "foreground": "#ff6c94"
+        "foreground": "#fff"
       }
     },
     {
