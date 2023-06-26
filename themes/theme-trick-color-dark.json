@@ -205,7 +205,7 @@
     "notifications.border": "#c5c5c50e",
     "gitDecoration.addedResourceForeground": "#59b86b",
     "gitDecoration.conflictingResourceForeground": "#6161f9",
-    "gitDecoration.deletedResourceForeground": "#f54d2f",
+    "gitDecoration.deletedResourceForeground": "#ff0",
     "gitDecoration.ignoredResourceForeground": "#8c8c8c",
     "gitDecoration.modifiedResourceForeground": "#c5c5c5",
     "gitDecoration.stageDeletedResourceForeground": "#e2725e",
