@@ -1,32 +1,37 @@
 {
-  "name": "theme-trick",
-  "displayName": "theme-trick",
-  "description": "theme-dark para todas as pessoas que gostam de thema dark personalizado",
-  "version": "0.0.3",
-  "engines": {
-    "vscode": "^1.75.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "icon":"icon.png",
-  "repository": {
-    "type": "git",
-    "url": "www.github.com/patricklimax/vscode-theme-trick"
-  },
-  "keywords": [
-    "dark",
-    "theme-dark",
-    "colors"
-  ],
-  "publisher": "patricklimax",
-  "contributes": {
-    "themes": [
-      {
-        "label": "theme-trick",
-        "uiTheme": "vs-dark",
-        "path": "./themes/theme-trick-color-dark.json"
-      }
-    ]
-  }
+	"name": "theme-trick",
+	"displayName": "theme-trick",
+	"description": "theme-dark para todas as pessoas que gostam de thema dark personalizado",
+	"version": "0.1.0",
+	"engines": {
+		"vscode": "^1.75.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "icon.png",
+	"repository": {
+		"type": "git",
+		"url": "www.github.com/patricklimax/vscode-theme-trick"
+	},
+	"keywords": [
+		"dark",
+		"theme-dark",
+		"colors"
+	],
+	"publisher": "patricklimax",
+	"contributes": {
+		"themes": [
+			{
+				"label": "theme-trick-blue",
+				"uiTheme": "vs-dark",
+				"path": "./themes/theme-trick-color-dark.json"
+			},
+			{
+				"label": "theme-trick-black",
+				"uiTheme": "vs-dark",
+				"path": "./themes/theme-trick-color-dark-v2.json"
+			}
+		]
+	}
 }
