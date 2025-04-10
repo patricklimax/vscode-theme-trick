@@ -1,8 +1,8 @@
 {
 	"name": "theme-trick",
-	"displayName": "theme-trick",
-	"description": "theme-dark para todas as pessoas que gostam de thema dark personalizado",
-	"version": "0.3.0",
+	"displayName": "Trick Theme - BlackAndBlue",
+	"description": "A simple theme that comes in dark tones: black and blue.",
+	"version": "0.1.0",
 	"engines": {
 		"vscode": "^1.75.0"
 	},
@@ -23,12 +23,12 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "theme-trick-blue",
+				"label": "Trick Blue",
 				"uiTheme": "vs-dark",
 				"path": "./themes/theme-trick-color-dark.json"
 			},
 			{
-				"label": "theme-trick-black",
+				"label": "Trick Black",
 				"uiTheme": "vs-dark",
 				"path": "./themes/theme-trick-color-dark-v2.json"
 			}
