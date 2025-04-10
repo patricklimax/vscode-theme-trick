@@ -2,7 +2,7 @@
 	"name": "theme-trick",
 	"displayName": "Trick Theme - BlackAndBlue",
 	"description": "A simple theme that comes in dark tones: black and blue.",
-	"version": "0.3.0",
+	"version": "0.1.1",
 	"engines": {
 		"vscode": "^1.75.0"
 	},
